@@ -13,7 +13,7 @@
     <key>CFBundleIcons~ipad</key>
     <dict/>
     <key>CFBundleIdentifier</key>
-    <string>com.phonegap.helloworld</string>
+    <string>com.stackoverflow.example.SO37227132</string>
     <key>CFBundleInfoDictionaryVersion</key>
     <string>6.0</string>
     <key>CFBundleName</key>
@@ -47,10 +47,5 @@
     </array>
     <key>UIRequiresFullScreen</key>
     <true/>
-    <key>NSAppTransportSecurity</key>
-    <dict>
-      <key>NSAllowsArbitraryLoads</key>
-      <true/>
-    </dict>
   </dict>
 </plist>
